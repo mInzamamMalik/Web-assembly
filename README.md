@@ -1,3 +1,11 @@
+![alt](img/img.jpg)
+
+Author:<br/>Muhammad Inzamam Malik<br/>
+[join Inzamam Malik on Facebook](http://facebook.com/minzamammalik)
+
+---
+
+
 # Web-assembly Hello World Program
 
 ###yahhooo i have compiled my first Web-Assembly program :-)
