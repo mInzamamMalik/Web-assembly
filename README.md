@@ -1,3 +1,5 @@
+# Web assembly Hello World Program
+
 ![alt](img/img.jpg)
 
 Author:<br/>Muhammad Inzamam Malik<br/>
@@ -5,11 +7,7 @@ Author:<br/>Muhammad Inzamam Malik<br/>
 
 ---
 
-
-# Web-assembly Hello World Program
-
 ###yahhooo i have compiled my first Web-Assembly program :-)
-
 
 ###Step 1:
 goto here https://s3.amazonaws.com/mozilla-games/emscripten/releases/emsdk-1.12.0-full-32bit.exe and download emscripten and install omn your computer
