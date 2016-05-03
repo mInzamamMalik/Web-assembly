@@ -1363,14 +1363,14 @@ var memoryInitializer = null;
 
 STATIC_BASE = 8;
 
-STATICTOP = STATIC_BASE + 16;
+STATICTOP = STATIC_BASE + 40;
 
 
 /* global initializers */ __ATINIT__.push({ func: function() { runPostSets() } });
 
 
 
-/* memory initializer */ allocate([104,101,108,108,111,44,32,119,111,114,108,100,33,10,0,0], "i8", ALLOC_NONE, Runtime.GLOBAL_BASE);
+/* memory initializer */ allocate([73,110,122,97,109,97,109,32,77,97,108,105,107,32,45,32,87,101,98,65,115,115,101,109,98,108,121,32,68,101,109,111,33,0,0,0,0,0,0,0], "i8", ALLOC_NONE, Runtime.GLOBAL_BASE);
 function runPostSets() {
 
 
@@ -5656,4 +5656,4 @@ run();
 
 
 
-//@ sourceMappingURL=output.html.map
+//@ sourceMappingURL=index.html.map

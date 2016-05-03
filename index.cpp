@@ -1,7 +1,7 @@
 #include <stdio.h>
-  int main() {
-    printf("hello, world!\n");
-    
+ int main() {
+
+    printf("Inzamam Malik - WebAssembly Demo!");   
         
     return 0;
-  }
+}
